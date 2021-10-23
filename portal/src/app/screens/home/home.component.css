@@ -1,0 +1,29 @@
+.responsive {
+
+    
+    height:auto;
+    width:100%;
+    
+
+    
+    }
+    
+    .secondary button{
+    
+        
+        background-position: center;
+        background-size:contain;
+        background-repeat: no-repeat;
+        font-size: 40px;
+        border:3px solid rgb(233, 218, 17);
+        transition:.5s;
+    }
+
+    .secondary button:hover{
+    
+    
+    border:3px solid rgb(187, 15, 15);
+       
+        
+     
+    }
